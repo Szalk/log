@@ -1,26 +1,24 @@
 const CHANGELOG_COMBINED = {
-  "exportedAt": "2026-05-28T18:57:58.672Z",
+  "exportedAt": "2026-05-28T19:14:26.599Z",
   "apps": {
     "nstart": {
       "meta": {
         "latestVersion": "260527",
-        "exportedAt": "2026-05-28T18:57:58.686Z",
-        "salt": "Y2hhbmdlbG9nXzIwMjYhIQ=="
+        "exportedAt": "2026-05-28T19:14:26.602Z"
       },
       "encrypted": {
-        "iv": "llSD+lQtc/sivvmr",
-        "data": "3jK23RgU4ZDD+il8W3LV3YCYUgZZRd5V7HacbCyQmnOnh3++SoC9MtBD4Fs1jmYWp2n08sJ5mL9R+Cx6T2hjYrqAbcrJ4y0BTvo7K945KudD02lnmJMfOm6wYZgLzFJHQeF6ZkdipUG/16rUqOr6765HVWW+L751tf86QSbLbliICupbd3D8r3isFB70frx2Y8yy7pkQ4IhUS8wMQzAWSlCH6hpdTxeCNfdxYbWnfLJQpXjKD3SUEA=="
+        "iv": "i2VytNiDWnSshxWw",
+        "data": "hIRH35OGk8HJdodBJheHiFHrHcORHmI9mQ7XYwbxnncKmm6yDSeqflGzHx5QRyfvqOBPtsAhFrdINXomj14JvlRaAMJZcApaW7O+7R+NK7V2e/X4duGYoRGmO+/H0WYK2G+8j1OutpWxYsXe3usEpPxvmz6ISci+RIEP7BOiDWP5soo7kA3BPbNmk3pUkDYOWLH0Ib5g0DoZ7/F5Yer16U01oobvHvJY5IB0IhpSadGuKfjX48yx9A=="
       }
     },
     "maja": {
       "meta": {
         "latestVersion": "260527",
-        "exportedAt": "2026-05-28T18:57:58.688Z",
-        "salt": "Y2hhbmdlbG9nXzIwMjYhIQ=="
+        "exportedAt": "2026-05-28T19:14:26.603Z"
       },
       "encrypted": {
-        "iv": "UOEC3Z3OoSTs1ryN",
-        "data": "vzc3PwYqxf8ov6RBVO+78lWKOS9m8TEsbooEQtzGO/IbffekA6ljyYzrw0h7g728oFFxbBEmcutdu8vOQ11rLuzTylJ1iQCqizVja77F2cCylhSHVNXWDCiCGEwzDD8NXuaKo3o7WsNDoCXxbepEcdnJE9T/A+FBocCcI/ONXEczxfJ131yEz7XQW7EXhDQGgWqwgeAZJqSU+SN4JVY14A=="
+        "iv": "fX3PZw/4dte32opB",
+        "data": "+FJ7dRAioX8kHXKgubAqqUxuZJi7kGuGQoAuDcacXHRjUhQdX2W+X4q6OQG3ZrNvwBoQ5BHbdogsliMRA9Zn8pNswcMBckOWA0jAcV2BDdQO1sDgfNrQHFzd+UZB86Ki56VhthWgDDwLiikHRk1cEPkKVb31ZetvPC7pyUaVJ1E1qWfwykSo/ElYyEX1RN5GaqBKiVCDAbqXgcfW/YylbQ=="
       }
     }
   }
