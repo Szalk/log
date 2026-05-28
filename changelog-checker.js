@@ -299,9 +299,11 @@
     }
   }
 
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
+  // window.load-ot használunk: garantálja hogy a CDN-ről töltött
+  // combined.changelog.js már lefutott és CHANGELOG_COMBINED elérhető.
+  if (document.readyState === 'complete') {
     init();
+  } else {
+    window.addEventListener('load', init);
   }
 })();
