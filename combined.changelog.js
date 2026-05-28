@@ -1,26 +1,26 @@
 const CHANGELOG_COMBINED = {
-  "exportedAt": "2026-05-28T18:40:59.225Z",
+  "exportedAt": "2026-05-28T18:57:58.672Z",
   "apps": {
     "nstart": {
       "meta": {
         "latestVersion": "260527",
-        "exportedAt": "2026-05-28T18:40:59.227Z",
+        "exportedAt": "2026-05-28T18:57:58.686Z",
         "salt": "Y2hhbmdlbG9nXzIwMjYhIQ=="
       },
       "encrypted": {
-        "iv": "VRwBZh1HsZa7CXpy",
-        "data": "bRC+n5DrCM/fX2aM0eaUhsN+0EcJHgtcAyAzxrCyih0CNyvh7XQy9Hqzs24RjYY2A+yW7cypHx3G93Iu93wBOUyZNSvTCIa/NndT6Y8qNKXhBV2TCDYPfbaJuQtJdw3J85IvivJoxm8/s3MvBpN8tcD+y9P3G6aOrYt9cLsNSfCoZd2+2DttNpGR9DTSWAQCJD9U9hYSnnawCQQBzrteQ8hwkYEuROu7u0h7tPsuk+kia8r3UNz1QA=="
+        "iv": "llSD+lQtc/sivvmr",
+        "data": "3jK23RgU4ZDD+il8W3LV3YCYUgZZRd5V7HacbCyQmnOnh3++SoC9MtBD4Fs1jmYWp2n08sJ5mL9R+Cx6T2hjYrqAbcrJ4y0BTvo7K945KudD02lnmJMfOm6wYZgLzFJHQeF6ZkdipUG/16rUqOr6765HVWW+L751tf86QSbLbliICupbd3D8r3isFB70frx2Y8yy7pkQ4IhUS8wMQzAWSlCH6hpdTxeCNfdxYbWnfLJQpXjKD3SUEA=="
       }
     },
     "maja": {
       "meta": {
         "latestVersion": "260527",
-        "exportedAt": "2026-05-28T18:40:59.228Z",
+        "exportedAt": "2026-05-28T18:57:58.688Z",
         "salt": "Y2hhbmdlbG9nXzIwMjYhIQ=="
       },
       "encrypted": {
-        "iv": "c3BhCTqAiT62yVZm",
-        "data": "dRSNFtn0WsgfFriBriIprAHEou8LRj1wtuk0tF3Z2pIYNc0rcP9wPrOFj7safqrPniPX9WrOir70iXs/qFsxu01rzXHJ/zlX6yKlWDBgWKX2oC9JqP24RJk2pu/VCGlmMYo2sQWil9NITh/TWIGmbka45WtbiSU7krSrUbaR/jGW8ptWp+jgPApkZoCWTKlORvQtGJ5/gv+7AfJC3hHTOA=="
+        "iv": "UOEC3Z3OoSTs1ryN",
+        "data": "vzc3PwYqxf8ov6RBVO+78lWKOS9m8TEsbooEQtzGO/IbffekA6ljyYzrw0h7g728oFFxbBEmcutdu8vOQ11rLuzTylJ1iQCqizVja77F2cCylhSHVNXWDCiCGEwzDD8NXuaKo3o7WsNDoCXxbepEcdnJE9T/A+FBocCcI/ONXEczxfJ131yEz7XQW7EXhDQGgWqwgeAZJqSU+SN4JVY14A=="
       }
     }
   }
