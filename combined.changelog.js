@@ -243,7 +243,7 @@ const CHANGELOG_COMBINED = {
     },
     "nstart": {
       "meta": {
-        "latestVersion": "260528,
+        "latestVersion": "260528",
         "exportedAt": "2026-05-28T19:57:09.115Z"
       },
       "encrypted": {
